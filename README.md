@@ -24,4 +24,4 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-blue)](Your Twitter URL)
 
 ## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=goddev99&show_icons=true)
