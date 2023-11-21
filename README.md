@@ -1,10 +1,13 @@
 # Hi there, I'm Rora Song 👋
 
 ## About Me
-- 🔭 I’m looking for a job for long-term relation.
-- 🌱 I’m currently learning Block-Chain.
-- 👯 I’m looking to collaborate on web and mobile development
-- 🤔 I’m looking for help with Amazon_payfort
+- 💻 Highly skilled, top-tier full-stack engineer with extensive hands-on experience.
+- 💪 I am a specialist in
+   React, Angular, Vue.js, Svelte.js, Tailwind CSS, Three.js ...
+   Ruby on Rails, ASP.Net Core, Node.js, Laravel, Django ...
+- ⏰ Working on CST timezone.
+- 📙 Responsive Communication.
+- 👊 Long-term relationship based on Win-Win methodology
 
 ## My Skills
 - Language: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -27,10 +30,3 @@
 ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![AWS Route 53](https://img.shields.io/badge/-AWS_Route_53-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/-AWS_RDS-FF9900?style=flat-square&logo=amazonrds&logoColor=white)
-
-## My Latest Projects
-- [Project Name](Link to Project) - Short Description
-- [Another Project](Link to Another Project) - Short Description
-
-## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=goddev99&show_icons=true)
