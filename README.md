@@ -1,6 +1,6 @@
-# Hi there, I'm Rora Song 👋
+# Full-Stack Developer for Web && Mobile && Backend.
 
-## About Me
+## 👋 About Me
 - 💻 Highly skilled, top-tier full-stack engineer with extensive hands-on experience.
 - 💪 I am a specialist in
    React, Angular, Vue.js, Svelte.js, Tailwind CSS, Three.js ...
@@ -8,6 +8,14 @@
 - ⏰ Working on CST timezone.
 - 📙 Responsive Communication.
 - 👊 Long-term relationship based on Win-Win methodology
+
+## 📜 Focused on
+🔹 Frontend Specialist in React, Angular, Vue, Next, Svelte, TailwindCSS, MUI, Antd, Bootstrap.
+🔹 Backend Specialist in  Node.js, Laravel, Ruby on Rails, ASP.Net Core,
+🔹 OAuth, Social_login
+🔹 MS-SQL, PostgreSQL, MongoDB, MySQL/MaraiDB, Firebase Database
+🔹 Payment Gateway(Stripe, Paypal, Payfort, FlutterWave)
+🔹 Digital Ocean, Heroku, AWS console management, 
 
 ## My Skills
 - Language: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
