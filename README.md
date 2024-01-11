@@ -40,3 +40,6 @@
 ![AWS Route 53](https://img.shields.io/badge/-AWS_Route_53-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/-AWS_RDS-FF9900?style=flat-square&logo=amazonrds&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+## Most Languages
+![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=goddev99&theme=blue-green)
