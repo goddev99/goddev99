@@ -42,4 +42,4 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ## Most Languages
-![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=goddev99&theme=blue-green)
+//![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=goddev99&theme=blue-green)
